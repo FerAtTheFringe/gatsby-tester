@@ -12,7 +12,7 @@ const AboutPage = () => {
 
     return (
         <main>
-            <Layout pageTitle="Home Page">
+            <Layout pageTitle="About Page">
                 <p>Hi there! I'm the proud creator of this site, which I built with Gatsby.</p>
                 <p>Check this out!</p>
                 <button onClick={increaseCounter}>Click here</button>
